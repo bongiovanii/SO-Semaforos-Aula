@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Cavaleiros_Do_Apocalipse/src"/>
+	<classpathentry kind="output" path="Cavaleiros_Do_Apocalipse/bin"/>
+</classpath>
